@@ -1,1 +1,64 @@
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": true,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.lady.security",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://sites.google.com/view/toni-boch/home"
+    },
+    "GuideContent": [
+        {
+            "title": "Tips and Tricks",
+            "description": "Throughout Five Nights at Freddy's campaign, Gregory will have to sneak around roaming animatronics, survive gruelling boss battles and hide from the various inhabitants of Freddy Fazbear's Mega Pizzaplex. In short, it can be a tough ride, but it becomes significantly more manageable with a few key strategies under your belt. "
+        },
+        {
+            "title": "Know Your Hiding Spots",
 
+            "description": "One of the easiest ways to survive being stalked by Chica, Monty, Roxy or any of the other hulking animatronics haunting the Pizzaplex is to hop into one of the mall's various hiding spots. These come in all shapes and sizes, including lockers, bins, laundry baskets, pushchairs, food stalls, photo booths and even Freddy himself. "
+        },
+        {
+            "title": "Rely On Your Cameras",
+            "description": "Keeping tabs on animatronics as you're sneaking around the Pizzaplex can be challenging. They're often fast and the size of areas means they can disappear and reappear without warning. However, you have one tool the animatronics don't: access to the various cameras dotted around each area. "
+        },
+        {
+            "title": "Save As Often As Possible",
+            "description": "The animatronics in Five Nights at Freddy's: Security Breach are incredibly powerful. Every single one will be able to finish Gregory off by catching him just once and, bar a few specific scenarios, there are no checkpoints you can easily jump to when that happens. The only way to make sure you're not replaying long stretches of the game after being caught is to make save points a regular part of your routine. "
+        },
+        {
+            "title": "Use Sprint to Break Line of Sight",
+            "description": "When Chica, Monty and Roxy spot you, it can be tempting to bolt to the exit of the area in a bid to save yourself. Unfortunately, trying to outrun a pursuer usually isn't a wise idea. While you'll initially be able to put distance between yourself and an animatronic, Gregory's stamina meter will eventually run out and he'll run at a pace perfect for an animatronic looking to snag itself an easy meal. "
+        }
+    ]
+}
